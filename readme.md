@@ -1,4 +1,4 @@
-<img src="jobfunnel_banner.svg" alt="JobFunnel Banner" width=400/><br/>
+<img src="search_my_job.svg" alt="JobFunnel Banner" width=400/><br/>
 
 
 Automated tool for scraping job postings into a `.csv` file.
