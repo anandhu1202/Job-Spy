@@ -213,20 +213,3 @@ You can specify the following countries when searching on Indeed (use the exact 
 * All the job board endpoints are capped at around 1000 jobs on a given search.  
 * LinkedIn is the most restrictive and usually rate limits around the 10th page with one ip. Proxies are a must basically.
 
-## Frequently Asked Questions
-
----
-
-**Q: Encountering issues with your queries?**  
-**A:** Try reducing the number of `results_wanted` and/or broadening the filters. If problems
-persist, [submit an issue](https://github.com/Bunsly/JobSpy/issues).
-
----
-
-**Q: Received a response code 429?**  
-**A:** This indicates that you have been blocked by the job board site for sending too many requests. All of the job board sites are aggressive with blocking. We recommend:
-
-- Wait some time between scrapes (site-dependent).
-- Try using the proxies param to change your IP address.
-
----
